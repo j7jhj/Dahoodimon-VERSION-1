@@ -1,4 +1,4 @@
-# Dahoodimon-VERSION-2
+# Dahoodimon-VERSION-3
 
 **WELCOME TO DAHOODIMON!**
 
@@ -6,7 +6,8 @@
 
 *EXPLORE DETROIT*
 
-![image](https://github.com/j7jhj/Dahoodimon-VERSION-1/assets/157136647/0cc0be3d-1144-4087-9a20-fbbdd7fbe10a)
+![image](https://github.com/j7jhj/Dahoodimon-VERSION-3/assets/157136647/7edabb20-06b9-451f-bbef-c8fecc1f012f)
+
 
 
 *EAT FOOD!*
@@ -16,7 +17,8 @@
 
 *FIGHT BOSSES!*
 
-![image](https://github.com/j7jhj/Dahoodimon-VERSION-1/assets/157136647/75864f20-44c6-42ee-89b0-011f4af44384)
+![image](https://github.com/j7jhj/Dahoodimon-VERSION-3/assets/157136647/eb314941-0b61-4b5b-ac37-9e3633ce2de9)
+
 
 
 **THE CHOICE IS YOURS!**
