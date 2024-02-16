@@ -151,7 +151,7 @@ FUSION = {
         'EN CONSUMPTION': 60
     },
     'Godlike Recharge': 40,
-    'Owned': True
+    'Owned': False
 
 }
 
