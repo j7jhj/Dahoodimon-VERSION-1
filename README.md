@@ -12,7 +12,8 @@
 
 *EAT FOOD!*
 
-![image](https://github.com/j7jhj/Dahoodimon-VERSION-1/assets/157136647/7de782d9-6eff-4f72-8410-2c6fb3f82e5f)
+![image](https://github.com/j7jhj/Dahoodimon-VERSION-3/assets/157136647/cc6cd323-cdfe-4829-8c7e-24de2ca3fa78)
+
 
 
 *FIGHT BOSSES!*
