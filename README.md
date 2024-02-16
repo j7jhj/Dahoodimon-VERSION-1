@@ -10,7 +10,7 @@
 
 
 
-*EAT FOOD!*
+*Drink N' Eat!*
 
 ![image](https://github.com/j7jhj/Dahoodimon-VERSION-3/assets/157136647/cc6cd323-cdfe-4829-8c7e-24de2ca3fa78)
 
